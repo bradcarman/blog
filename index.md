@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Notes about modeling with Julia and ModelingToolkit.jl
 ---
 
