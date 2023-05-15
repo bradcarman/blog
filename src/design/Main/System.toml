@@ -1,0 +1,32 @@
+[fluid]
+x = 0.46
+y = -0.11
+
+[mass]
+flange = "S"
+x = 0.3
+y = 0.24
+
+[ramp]
+x = 0.1
+y = -0.04
+
+[sink]
+port = "N"
+x = 0.3
+y = -0.19
+
+[valve]
+area = "W"
+port_a = "S"
+port_b = "N"
+x = 0.3
+y = -0.04
+wall = "N"
+
+[vol]
+flange = "N"
+port = "S"
+x = 0.3
+y = 0.1
+wall = "N"
